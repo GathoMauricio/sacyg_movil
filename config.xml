@@ -13,5 +13,5 @@ Aplicacion Movil para SACYG
 <author href="https://sacyg_restaurantes.com" email="mauricio2769@gmail.com">
 SACYG
 </author>
-
+<icon src="img/icono.png" />
 </widget>
