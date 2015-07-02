@@ -4,10 +4,10 @@
     id        = "com.sacyg.restarantes"
     version   = "1.0.0">
 
-<name>PhoneGap Build Application</name>
+<name>SACYG MOVIL</name>
 
 <description>
-A simple PhoneGap Build application.
+Aplicacion Movil para SACYG
 </description>
 
 <author href="https://sacyg_restaurantes.com" email="mauricio2769@gmail.com">
